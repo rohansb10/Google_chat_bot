@@ -1,0 +1,7 @@
+streamlit
+langchain
+bs4
+requests
+python-dotenv
+werkzeug
+langchain_community
