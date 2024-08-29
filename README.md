@@ -66,7 +66,7 @@ streamlit run langgraph_chatbot_with_tools.py
 ## Project Structure
 
 ```plaintext
-├── langgraph_chatbot_with_tools.py  # Main application script
+├── app.py                           # Main application script
 ├── requirements.txt                 # Python dependencies
 ├── .env.example                     # Example environment file
 ├── agent_interaction_log.csv        # Log file for interactions (auto-generated)
